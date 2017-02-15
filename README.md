@@ -12,9 +12,12 @@
 	- 웹 표준 모델(HTML, CSS, Java Script)과 Django를 사하하여 산업경영공학과에 필요한 세미나실을 예약 할 수 있는 시스템을 만듦
 
 ## SKILL
-- Language : Python, C, Git, Numpy, Tensor Flow, Web (HTML + CSS + Java Script + bootstrap)<br/>
-- Web Framework : Django<br/>
-- Operating System : Linux (Ubuntu)<br/>
+- Language : Python, C, Git, Numpy, Tensor Flow, Web (HTML + CSS + Java Script + bootstrap)
+
+- Web Framework : Django
+
+- Operating System : Linux (Ubuntu)
+
 - Others : GitHub, Jetbrains IDE(pyCharm, Webstorm), Jupyter, MS Visual Studio, MS office
 
 ## EXPERIENCE	
