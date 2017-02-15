@@ -26,8 +26,8 @@
 
 - (2016) 2학기 소프트웨어공학 - 건강관리 앱 분석 및 설계 ([앱 분석](https://www.slideshare.net/secret/H8fswxtOJ9dJME),[앱 재구성](https://www.slideshare.net/secret/f38BZzxwradMJQ))
 	- 건강 관리 앱(Fat Secret)을 직접 사용 한 후 앱 분석을 하고 사용 할 때 발견한 개선해야 할 점을 바탕으로 어플을 재구성
-- (2016) 2학기 기술경영 - ([1차과제](https://www.slideshare.net/secret/FrIUOzbuzenAk2)[2차과제](https://www.slideshare.net/secret/6M9cJsicVd5ga)[3차과제](https://www.slideshare.net/secret/78yCXFPNse2rVW))	
-- 모바일 헬스케어 관련 기술 및 여러 기업의 현황을 조사하고 하나의 기업을 선정하여 향후 기술 전략을 수립함
+- (2016) 2학기 기술경영 - ([1차과제](https://www.slideshare.net/secret/FrIUOzbuzenAk2),[2차과제](https://www.slideshare.net/secret/6M9cJsicVd5ga),[3차과제](https://www.slideshare.net/secret/78yCXFPNse2rVW))	
+	- 모바일 헬스케어 관련 기술 및 여러 기업의 현황을 조사하고 하나의 기업을 선정하여 향후 기술 전략을 수립함
 - TA 활동
 	- (2016) 1학기 경영정보시스템 TA
 	- (2016) 2학기 CS50 프로그래밍 입문 with Python TA
