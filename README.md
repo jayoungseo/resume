@@ -1,12 +1,12 @@
 # Resume
-##### 서자영
-##### 가천대학교 산업경영공학과
-##### E-mail : tjwkdud0423@gmail.com
-##### [Teamlab 학부생 연구원](https://github.com/TeamLab) 
+#### 서자영
+#### 가천대학교 산업경영공학과
+#### E-mail : tjwkdud0423@gmail.com
+#### [Teamlab 학부생 연구원](https://github.com/TeamLab) 
 -----
 ## PROJECT
 - [(2016) 데이터 과학 여름 학교](http://www.slideshare.net/secret/qqci5maNeXIGz7)
-	- scikit-learn으로 Logistics Regression, Decision Tree, Feature Engineering 방법을 사용하여 데이터(Post-Operative Patient Data) 분석 및 성능을 향상 시킴
+	* scikit-learn으로 Logistics Regression, Decision Tree, Feature Engineering 방법을 사용하여 데이터(Post-Operative Patient Data) 분석 및 성능을 향상 시킴
 
 - (2016) 겨울 생활코딩
 	- 웹 표준 모델(HTML, CSS, Java Script)과 Django를 사하하여 산업경영공학과에 필요한 세미나실을 예약 할 수 있는 시스템을 만듦
