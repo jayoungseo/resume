@@ -15,15 +15,15 @@
 - Language : Python, C, Git, Numpy, Tensor Flow, Web (HTML + CSS + Java Script + bootstrap)<br/>
 - Web Framework : Django<br/>
 - Operating System : Linux (Ubuntu)<br/>
-- Others : GitHub, Jetbrains IDE(pyCharm, Webstorm),
-            Jupyter, MS Visual Studio, MS office
+- Others : GitHub, Jetbrains IDE(pyCharm, Webstorm), Jupyter, MS Visual Studio, MS office
 
-## EXPERIENCE
+## EXPERIENCE	
+- [(2016) 가천대학교 해커톤 기획](https://github.com/TeamLab/gachonhackday2016)
+	- 해커톤 행사 일정 기획과 필요 물품 준비 및 해커톤 서포터즈 지도
+
+- (2016) 2학기 소프트웨어공학 - 건강관리 어픔 분석 및 설계 ([건강관리 앱 분석](),[건강관리 앱 재구성()])
+	- 건강 관리 어플을 직접 사용 한 후 어플 분석을 하고 사용 할 때 발견한 개선점을 바탕으로 어플을 재구성함 
 - TA 활동
-	
-	-(2016) 1학기 경영정보시스템 TA
+	- (2016) 1학기 경영정보시스템 TA
 	- (2016) 2학기 CS50 프로그래밍 입문 with Python TA
 	- (2016) 2학기 CS50 Web Programming TA
-	
-- [(2016) 가천대학교 CS50 해커톤 기획](https://github.com/TeamLab/gachonhackday2016)
-	- 해커톤 일정 계획, 해커톤 서포터즈 지도, 해커톤 필요 물품 준비
