@@ -19,7 +19,7 @@
             Jupyter, MS Visual Studio, MS office
 
 ## EXPERIENCE
-- TA 활동 
+- TA 활동
 	-(2016) 1학기 경영정보시스템 TA
 	- (2016) 2학기 CS50 프로그래밍 입문 with Python TA
 	- (2016) 2학기 CS50 Web Programming TA
