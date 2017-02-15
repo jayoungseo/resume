@@ -22,8 +22,6 @@
 ## EXPERIENCE	
 - [(2016) 가천대학교 해커톤 기획](https://github.com/TeamLab/gachonhackday2016)
 	- 해커톤 행사 일정 기획과 필요 물품 준비 및 해커톤 서포터즈 지도
-
-
 - (2016) 2학기 소프트웨어공학 - 건강관리 앱 분석 및 설계 ([앱 분석](https://www.slideshare.net/secret/H8fswxtOJ9dJME),[앱 재구성](https://www.slideshare.net/secret/f38BZzxwradMJQ))
 	- 건강 관리 앱(Fat Secret)을 직접 사용 한 후 앱 분석을 하고 사용 할 때 발견한 개선해야 할 점을 바탕으로 어플을 재구성
 - (2016) 2학기 기술경영 - ([1차과제](https://www.slideshare.net/secret/FrIUOzbuzenAk2),[2차과제](https://www.slideshare.net/secret/6M9cJsicVd5ga),[3차과제](https://www.slideshare.net/secret/78yCXFPNse2rVW))	
