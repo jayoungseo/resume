@@ -1,7 +1,8 @@
 # Resume
 ##### 서자영
 ##### 가천대학교 산업경영공학과
-##### tjwkdud0423@gmail.com
+##### E-mail : tjwkdud0423@gmail.com
+##### [Teamlab 학부생 연구원](https://github.com/TeamLab) 
 -----
 ## PROJECT
 - [(2016) 데이터 과학 여름 학교](http://www.slideshare.net/secret/qqci5maNeXIGz7)
