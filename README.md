@@ -33,7 +33,9 @@
 <br/><br/>
 - [(2016) 가천대학교 해커톤 기획](https://github.com/TeamLab/gachonhackday2016)
 	- 해커톤 행사 일정 기획과 필요 물품 준비 및 해커톤 서포터즈 지도
-
+<br/><br/>
+- (2017) cosera - Neural Networks for Machine Learning 스터디
+	- Convolutional Neural Network ([발표자료](https://www.slideshare.net/secret/irx9NIUGtedJQ6),[발표코드](https://github.com/jayoungseo/seminar/blob/master/code/2017/0118/cnn_mnist_code.ipynb))
 ## EXPERIENCE	
 - TA 활동
 	- (2016) 1학기 경영정보시스템 TA
