@@ -20,7 +20,7 @@
 
 ## PROJECT
 - (2016) 겨울 생활코딩
-	- 웹 표준 모델(HTML, CSS, Java Script)과 Django를 사용하여 산업경영공학과 세미나실을 예약해 사용 할  수 있는 시스템 
+	- 웹 표준 모델(HTML, CSS, Java Script)과 Django를 사용하여 산업경영공학과 세미나실을 예약해 사용 할  수 있는 시스템 개발
 <br/><br/>
 - [(2016) 데이터 과학 여름 학교](http://www.slideshare.net/secret/qqci5maNeXIGz7)
   	- scikit-learn으로 Logistics Regression, Decision Tree, Feature Engineering 방법을 사용하여 데이터(Post-Operative Patient Data) 분석 및 성능 
