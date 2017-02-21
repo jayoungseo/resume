@@ -21,10 +21,10 @@
 ## PROJECT
 - (2016) 겨울 생활코딩
 	- 웹 표준 모델(HTML, CSS, Java Script)과 Django를 사용하여 산업경영공학과 세미나실을 예약해 사용 할  수 있는 시스템 
-<br/><br/>	
+<br/><br/>
 - [(2016) 데이터 과학 여름 학교](http://www.slideshare.net/secret/qqci5maNeXIGz7)
   	- scikit-learn으로 Logistics Regression, Decision Tree, Feature Engineering 방법을 사용하여 데이터(Post-Operative Patient Data) 분석 및 성능 
-<br/><br/>	
+<br/><br/>
 - (2016) 2학기 소프트웨어공학 - 건강관리 앱 분석 및 설계 ([앱 분석](https://www.slideshare.net/secret/H8fswxtOJ9dJME),[앱 재구성](https://www.slideshare.net/secret/f38BZzxwradMJQ))
 	- 건강 관리 앱(Fat Secret)을 직접 사용 한 후 앱 분석을 하고 사용 할 때 발견한 개선점을 바탕으로 어플을 재구성
 <br/><br/>
@@ -33,7 +33,6 @@
 <br/><br/>
 - [(2016) 가천대학교 해커톤 기획](https://github.com/TeamLab/gachonhackday2016)
 	- 해커톤 행사 일정 기획과 필요 물품 준비 및 해커톤 서포터즈 지도
-<br/><br/>
 
 ## EXPERIENCE	
 - TA 활동
