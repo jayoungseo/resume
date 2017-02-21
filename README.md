@@ -36,6 +36,7 @@
 <br/><br/>
 - (2017) cosera - Neural Networks for Machine Learning 스터디
 	- Convolutional Neural Network ([발표자료](https://www.slideshare.net/secret/irx9NIUGtedJQ6),[발표코드](https://github.com/jayoungseo/seminar/blob/master/code/2017/0118/cnn_mnist_code.ipynb))
+
 ## EXPERIENCE	
 - TA 활동
 	- (2016) 1학기 경영정보시스템 TA
